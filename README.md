@@ -1,0 +1,2 @@
+# bot_chinesexinhua
+基于botoy和OPQBot的中华新华字典插件
